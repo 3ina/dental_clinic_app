@@ -51,10 +51,10 @@ set EMAIL_HOST_USER" and "EMAIL_HOST_PASSWORD" in settings.py file
 
 ![App Screenshot](https://github.com/3ina/dental_clinic_app/blob/master/screenshots/Screenshot-1.png)
 
-![App Screenshot](https://github.com/3ina/dental_clinic_app/blob/master/screenshots/Screenshot-1.png)
+![App Screenshot](https://github.com/3ina/dental_clinic_app/blob/master/screenshots/Screenshot-2.png)
 
-![App Screenshot](https://github.com/3ina/dental_clinic_app/blob/master/screenshots/Screenshot-1.png)
+![App Screenshot](https://github.com/3ina/dental_clinic_app/blob/master/screenshots/Screenshot-3png.png)
 
-![App Screenshot](https://github.com/3ina/dental_clinic_app/blob/master/screenshots/Screenshot-1.png)
+![App Screenshot](https://github.com/3ina/dental_clinic_app/blob/master/screenshots/Screenshot-4.png)
 
-![App Screenshot](https://github.com/3ina/dental_clinic_app/blob/master/screenshots/Screenshot-1.png)
+![App Screenshot](https://github.com/3ina/dental_clinic_app/blob/master/screenshots/Screenshot-5png.png)
