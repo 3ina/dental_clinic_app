@@ -15,3 +15,9 @@ class TestimonialSerializer(serializers.ModelSerializer):
     class Meta:
         model = models.Testimonial
         exclude = ("clinic",)
+
+class DoctorSerializer(serializers.ModelSerializer):
+
+    class Meta:
+        model = models.Doctor
+        exclude = ("clinic")
