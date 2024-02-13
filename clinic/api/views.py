@@ -9,3 +9,13 @@ class TestimonialList(generics.ListAPIView):
 class TestimonialRetrieve(generics.RetrieveAPIView):
     serializer_class = ser.TestimonialSerializer
 
+
+class DoctorList(generics.ListAPIView):
+    serializer_class = ser.DoctorSerializer
+
+
+class DoctorRetrieve(generics.RetrieveAPIView):
+    serializer_class = ser.DoctorSerializer
+
+
+
