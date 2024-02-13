@@ -8,3 +8,10 @@ class ClinicSerializer(serializers.ModelSerializer):
     class Meta:
         model = models.Clinic
         fields = "__all__"
+
+
+class TestimonialSerializer(serializers.ModelSerializer):
+
+    class Meta:
+        model = models.Testimonial
+        exclude = ("clinic",)
